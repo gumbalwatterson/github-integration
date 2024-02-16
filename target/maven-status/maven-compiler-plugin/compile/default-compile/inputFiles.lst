@@ -1,0 +1,15 @@
+/home/janek/projektnainter/github-integration/src/main/java/com/github/api/githubintegration/model/Commit.java
+/home/janek/projektnainter/github-integration/src/main/java/com/github/api/githubintegration/controller/GithubController.java
+/home/janek/projektnainter/github-integration/src/main/java/com/github/api/githubintegration/exception/GithubNoRepositoriesException.java
+/home/janek/projektnainter/github-integration/src/main/java/com/github/api/githubintegration/service/GithubService.java
+/home/janek/projektnainter/github-integration/src/main/java/com/github/api/githubintegration/config/SystemConfig.java
+/home/janek/projektnainter/github-integration/src/main/java/com/github/api/githubintegration/exception/model/GithubError.java
+/home/janek/projektnainter/github-integration/src/main/java/com/github/api/githubintegration/service/GithubClient.java
+/home/janek/projektnainter/github-integration/src/main/java/com/github/api/githubintegration/exception/handler/GithubGlobalExceptionHandler.java
+/home/janek/projektnainter/github-integration/src/main/java/com/github/api/githubintegration/service/impl/GithubClientImpl.java
+/home/janek/projektnainter/github-integration/src/main/java/com/github/api/githubintegration/model/Branch.java
+/home/janek/projektnainter/github-integration/src/main/java/com/github/api/githubintegration/service/impl/GithubServiceImpl.java
+/home/janek/projektnainter/github-integration/src/main/java/com/github/api/githubintegration/dto/BranchDataDto.java
+/home/janek/projektnainter/github-integration/src/main/java/com/github/api/githubintegration/dto/RepositoryDataDto.java
+/home/janek/projektnainter/github-integration/src/main/java/com/github/api/githubintegration/GithubIntegrationApplication.java
+/home/janek/projektnainter/github-integration/src/main/java/com/github/api/githubintegration/model/Repository.java

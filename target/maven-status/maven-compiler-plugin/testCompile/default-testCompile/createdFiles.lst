@@ -1,0 +1,4 @@
+com/github/api/githubintegration/service/GithubClientImplTest.class
+com/github/api/githubintegration/GithubIntegrationApplicationIT.class
+com/github/api/githubintegration/controller/GithubControllerIT.class
+com/github/api/githubintegration/service/GithubServiceImplTest.class

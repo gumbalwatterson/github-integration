@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.github.api.githubintegration.service.GithubServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.848 s -- in com.github.api.githubintegration.service.GithubServiceImplTest

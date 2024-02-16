@@ -1,0 +1,4 @@
+/home/janek/projektnainter/github-integration/src/test/java/com/github/api/githubintegration/GithubIntegrationApplicationIT.java
+/home/janek/projektnainter/github-integration/src/test/java/com/github/api/githubintegration/service/GithubServiceImplTest.java
+/home/janek/projektnainter/github-integration/src/test/java/com/github/api/githubintegration/controller/GithubControllerIT.java
+/home/janek/projektnainter/github-integration/src/test/java/com/github/api/githubintegration/service/GithubClientImplTest.java

@@ -1,0 +1,15 @@
+com/github/api/githubintegration/model/Repository.class
+com/github/api/githubintegration/GithubIntegrationApplication.class
+com/github/api/githubintegration/service/impl/GithubServiceImpl.class
+com/github/api/githubintegration/controller/GithubController.class
+com/github/api/githubintegration/dto/RepositoryDataDto.class
+com/github/api/githubintegration/model/Commit.class
+com/github/api/githubintegration/service/GithubClient.class
+com/github/api/githubintegration/config/SystemConfig.class
+com/github/api/githubintegration/exception/handler/GithubGlobalExceptionHandler.class
+com/github/api/githubintegration/service/GithubService.class
+com/github/api/githubintegration/model/Branch.class
+com/github/api/githubintegration/service/impl/GithubClientImpl.class
+com/github/api/githubintegration/dto/BranchDataDto.class
+com/github/api/githubintegration/exception/model/GithubError.class
+com/github/api/githubintegration/exception/GithubNoRepositoriesException.class
